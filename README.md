@@ -80,7 +80,7 @@ Successfully added 4 new connection(s) for dataiskole
 
 A visual graph of the superhero network will be displayed and saved as superhero_network.png in the working directory.
 
-
+![Superhero Network Visualization](superhero_network(1).png) 
 
 
 ## Tools and Libraries Used
@@ -109,10 +109,10 @@ All updates are saved back to the corresponding CSV files after each operation.
 ## File Structure
 
 
-├── superhero_network.py       # Main application script
-├── superheroes.csv            # Superhero data (auto-generated if not present)
-├── links.csv                  # Connection data (auto-generated if not present)
-└── superhero_network.png      # Network graph image (generated after visualization)
+├── superhero_network.py                                                                                                                  # Main application script
+├── superheroes.csv                                                                                                # Superhero data (auto-generated if not present)
+├── links.csv                                                                                                     # Connection data (auto-generated if not present)
+└── superhero_network.png                                                                                     # Network graph image (generated after visualization)
 
 
 Example Interactive Menu
