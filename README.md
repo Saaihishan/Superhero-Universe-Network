@@ -80,7 +80,7 @@ Successfully added 4 new connection(s) for dataiskole
 
 A visual graph of the superhero network will be displayed and saved as superhero_network.png in the working directory.
 
-![Superhero Network Visualization](superhero_network(1).png) 
+
 
 
 ## Tools and Libraries Used
